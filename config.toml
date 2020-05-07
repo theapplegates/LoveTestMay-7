@@ -7,9 +7,9 @@ defaultContentLanguage = "en"
 theme = "LoveIt"
 # themes directory
 # 主题目录
-#themesDir = "../.."
+themesDir = "../.."
 
-themesDir = "/exampleSite/themes/"
+#themesDir = "/exampleSite/themes/"
 
 
 # website title
